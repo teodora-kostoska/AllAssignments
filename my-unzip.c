@@ -1,4 +1,4 @@
-//Teodora Kostoska 0510085, Assignment 2 Part 4: my-unzip
+
 
 #include <stdio.h>
 #include <stdlib.h>
