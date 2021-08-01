@@ -1,4 +1,4 @@
-//Teodora Kostoska 0510085 Project 2 Part 2: my-grep
+
 
 #include <stdio.h>
 #include <stdlib.h>
