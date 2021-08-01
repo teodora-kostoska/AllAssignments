@@ -1,4 +1,4 @@
-//Teodora Kostoska 0510085 Project 2 Part 3: my-zip
+
 
 #include <stdio.h>
 #include <stdlib.h>
